@@ -1,2 +1,2 @@
-charted-code.github.io
+[chartedcode.com](https://chartedcode.com)
 ======================
